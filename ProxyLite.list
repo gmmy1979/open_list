@@ -32,3 +32,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 国外网站
 DOMAIN-SUFFIX,pixabay.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+
+
