@@ -34,6 +34,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 DOMAIN-SUFFIX,pixabay.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,acaisbest.com
+DOMAIN-SUFFIX,googleapis.com
 
 
 
