@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,acaisbest.com
 DOMAIN-SUFFIX,ipify.org
 
+# 谷歌翻译
+DOMAIN-KEYWORD,googleapis.com
+
 
 
 
