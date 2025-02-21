@@ -294,7 +294,7 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,igamecj.com
+#DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
