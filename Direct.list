@@ -8,7 +8,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,sulli520.com
 DOMAIN-SUFFIX,kidswatch-sg.com
-
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
